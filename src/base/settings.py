@@ -36,7 +36,9 @@ ALLOWED_HOSTS = [
     '127.0.0.1', 
     'localhost', 
     # add the IP address and the domain name of the server
-
+    'giuliopierini.com',
+    'www.giuliopierini.com',
+    '68.183.76.228/',
     ]
 
 
